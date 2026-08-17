@@ -175,30 +175,16 @@ Full-stack e-commerce infrastructure supporting both wholesale and retail operat
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mehmet-palak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=c9d1d9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-palak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=c9d1d9" alt="Top Languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mehmet-palak&theme=github_dark" alt="GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehmet-palak&theme=github_dark" alt="Repositories per language" />
 
 <br><br>
 
-<img width="86%" src="https://streak-stats.demolab.com/?user=mehmet-palak&theme=github-dark-blue&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=6B7280" alt="GitHub Streak" />
+<img width="86%" src="https://streak-stats.demolab.com?user=mehmet-palak&theme=github-dark-blue&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=E5E7EB" alt="GitHub Streak" />
 
 <br><br>
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmet-palak&bg_color=0d1117&color=c9d1d9&line=ef4444&point=e5e7eb&area=true&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Flow
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake.svg" />
-  <img width="96%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake.svg" />
-</picture>
 
 </div>
 
