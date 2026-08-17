@@ -61,7 +61,7 @@ My philosophy: **You cannot fully protect a system until you understand how to b
 <tr>
 <td width="50%" valign="top">
 
-<h4>🤖 AI Security Assistant — <em>Active Development</em></h4>
+<h4>AI Security Assistant — <em>Active Development</em></h4>
 
 Multi-capability AI system currently under active development. Performs penetration testing, intelligent code generation, debugging, refactoring, and automation. Features cross-platform device control across local and remote networks (PC ↔ Tablet), image processing, automated cybersecurity report writing, and NLP-powered analysis.
 
@@ -72,7 +72,7 @@ Multi-capability AI system currently under active development. Performs penetrat
 </td>
 <td width="50%" valign="top">
 
-<h4>🏆 T3 Foundation — Jury Automation AI</h4>
+<h4>T3 Foundation — Jury Automation AI</h4>
 
 AI-powered automation system developed for a competition organized by the T3 Foundation. Designed to accelerate and streamline jury evaluation workflows through intelligent processing, automated scoring, and decision support.
 
@@ -85,7 +85,7 @@ AI-powered automation system developed for a competition organized by the T3 Fou
 <tr>
 <td width="50%" valign="top">
 
-<h4>🌐 <a href="https://mehmetpalak.com">mehmetpalak.com</a> — Portfolio</h4>
+<h4><a href="https://mehmetpalak.com">mehmetpalak.com</a> — Portfolio</h4>
 
 Personal portfolio website showcasing AI development and cybersecurity projects. Features a skills overview, project gallery with offensive security & AI categories, and an integrated contact system. Built as a professional hub for project demonstrations.
 
@@ -96,7 +96,7 @@ Personal portfolio website showcasing AI development and cybersecurity projects.
 </td>
 <td width="50%" valign="top">
 
-<h4>🛒 E-Commerce Platform</h4>
+<h4>E-Commerce Platform</h4>
 
 Full-stack e-commerce infrastructure supporting both wholesale and retail operations through a single unified admin panel. Features multi-tier pricing, inventory management, order processing, and advanced product cataloging — all managed from one centralized dashboard.
 
@@ -212,8 +212,8 @@ Beyond this flagship project, I'm actively **updating and expanding my existing 
 
 <div align="center">
 
-<a href="mailto:mehmetpalak58@gmail.com">
-  <img src="https://img.shields.io/badge/mehmetpalak58@gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:bleistawzz@proton.me">
+  <img src="https://img.shields.io/badge/bleistawzz@proton.me-020617?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1e293b,50:0f172a,100:020617" />
