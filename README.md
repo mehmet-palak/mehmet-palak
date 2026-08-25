@@ -67,7 +67,7 @@ Multi-capability AI system currently under active development. Performs penetrat
 
 <br>
 
-`Python` `AI/ML` `NLP` `Computer Vision` `Cross-Platform` `Cybersecurity`
+`Rust` `Tauri` `AI/ML` `NLP` `Computer Vision` `Cross-Platform` `Cybersecurity`
 
 </td>
 <td width="50%" valign="top">
@@ -78,7 +78,7 @@ AI-powered automation system developed for a competition organized by the T3 Fou
 
 <br>
 
-`Python` `AI` `Automation` `NLP`
+`Rust` `Tauri` `AI` `Automation` `NLP`
 
 </td>
 </tr>
@@ -102,7 +102,7 @@ Full-stack e-commerce infrastructure supporting both wholesale and retail operat
 
 <br>
 
-`Full-Stack` `E-Commerce` `Admin Dashboard` `MSSQL`
+`Full-Stack` `TypeScript` `E-Commerce` `Admin Dashboard` `MSSQL`
 
 </td>
 </tr>
@@ -116,7 +116,7 @@ Full-stack e-commerce infrastructure supporting both wholesale and retail operat
 
 <h4>Languages & Runtime</h4>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,rust&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,ts,js,rust&theme=dark" />
 
 <h4>Frontend & Data</h4>
 
@@ -201,6 +201,14 @@ Beyond this flagship project, I'm actively **updating and expanding my existing 
 <a href="mailto:bleistawzz@proton.me">
   <img src="https://img.shields.io/badge/bleistawzz@proton.me-020617?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake.svg" />
+</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1e293b,50:0f172a,100:020617" />
 
