@@ -184,7 +184,7 @@ Full-stack e-commerce infrastructure supporting both wholesale and retail operat
 
 <br><br>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmet-palak&bg_color=0d1117&color=c9d1d9&line=ef4444&point=e5e7eb&area=true&hide_border=true" />
+<img width="86%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmet-palak&theme=github_dark" alt="Profile details and contribution timeline" />
 
 <br><br>
 
