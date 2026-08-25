@@ -186,6 +186,14 @@ Full-stack e-commerce infrastructure supporting both wholesale and retail operat
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmet-palak&bg_color=0d1117&color=c9d1d9&line=ef4444&point=e5e7eb&area=true&hide_border=true" />
 
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
@@ -201,14 +209,6 @@ Beyond this flagship project, I'm actively **updating and expanding my existing 
 <a href="mailto:bleistawzz@proton.me">
   <img src="https://img.shields.io/badge/bleistawzz@proton.me-020617?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mehmet-palak/mehmet-palak/output/github-snake.svg" />
-</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1e293b,50:0f172a,100:020617" />
 
