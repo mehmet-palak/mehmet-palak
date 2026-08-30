@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<a href="mailto:bleistawzz@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-020617?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="mailto:mehmetpalak@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-020617?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 <a href="https://github.com/mehmet-palak"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mehmetpalak/"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://hackerone.com/bleisy?type=user"><img src="https://img.shields.io/badge/HackerOne-020617?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
@@ -206,8 +206,8 @@ Beyond this flagship project, I'm actively **updating and expanding my existing 
 
 <div align="center">
 
-<a href="mailto:bleistawzz@proton.me">
-  <img src="https://img.shields.io/badge/bleistawzz@proton.me-020617?style=for-the-badge&logo=protonmail&logoColor=white" />
+<a href="mailto:mehmetpalak@proton.me">
+  <img src="https://img.shields.io/badge/mehmetpalak@proton.me-020617?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1e293b,50:0f172a,100:020617" />
