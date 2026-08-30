@@ -96,7 +96,7 @@ Personal portfolio website showcasing AI development and cybersecurity projects.
 </td>
 <td width="50%" valign="top">
 
-<h4>E-Commerce Platform</h4>
+<h4>ByTakTaki & TakiSec E-Commerce Platform</h4>
 
 Full-stack e-commerce infrastructure supporting both wholesale and retail operations through a single unified admin panel. Features multi-tier pricing, inventory management, order processing, and advanced product cataloging — all managed from one centralized dashboard.
 
