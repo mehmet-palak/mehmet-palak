@@ -7,18 +7,18 @@
 
 <h1><code>Mehmet Palak</code></h1>
 
-<strong>Offensive Security Engineering · Software Engineering · OSINT · AI Developer</strong>
+<strong>Offensive Security Engineering · Software Engineering · OSINT · Web Developer</strong>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=EF4444&center=true&vCenter=true&width=900&lines=Offensive+Security+%E2%80%A2+OSINT+%E2%80%A2+Software+Developer+%E2%80%A2+AI+Developer;Building+AI-powered+offensive+security+tools+%26+platforms;Red+Teamer+%E2%80%A2+Bug+Bounty+Hunter+%E2%80%A2+AI+Engineer" alt="Offensive Security and AI focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=EF4444&center=true&vCenter=true&width=900&lines=Offensive+Security+%E2%80%A2+OSINT+%E2%80%A2+Web+Developer;Building+offensive+security+tools+%26+web+platforms;Red+Teamer+%E2%80%A2+Bug+Bounty+Hunter+%E2%80%A2+Web+Developer" alt="Offensive Security and web development focus" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Offensive%20Security-020617?style=for-the-badge&logo=kalilinux&logoColor=EF4444" alt="Offensive Security" />
 <img src="https://img.shields.io/badge/Software%20Engineering-020617?style=for-the-badge&logo=visualstudiocode&logoColor=EF4444" alt="Software Engineering" />
 <img src="https://img.shields.io/badge/OSINT-020617?style=for-the-badge&logo=osano&logoColor=EF4444" alt="OSINT" />
-<img src="https://img.shields.io/badge/AI%20Developer-020617?style=for-the-badge&logo=openai&logoColor=EF4444" alt="AI Developer" />
+<img src="https://img.shields.io/badge/Web%20Developer-020617?style=for-the-badge&logo=html5&logoColor=EF4444" alt="Web Developer" />
 
 </div>
 
@@ -28,10 +28,11 @@
 
 <div align="center">
 
-<a href="mailto:mehmetpalak@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-020617?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="mailto:mehmetpalak58@gmail.com"><img src="https://img.shields.io/badge/Gmail-020617?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/mehmet-palak"><img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mehmetpalak/"><img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://hackerone.com/bleisy?type=user"><img src="https://img.shields.io/badge/HackerOne-020617?style=for-the-badge&logo=hackerone&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/mehmetpalak58"><img src="https://img.shields.io/badge/TryHackMe-020617?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
 
 </div>
 
@@ -41,15 +42,15 @@
 
 <h3 align="center">About Me</h3>
 
-I'm an AI Software Developer and Red Teamer passionate about the intersection of artificial intelligence and offensive cybersecurity. With a background in Management Information Systems (MIS), I build intelligent security tools, offensive platforms, and practical software solutions.
+I'm a Web Developer and Red Teamer passionate about offensive cybersecurity and building web software. With a background in Management Information Systems (MIS), I build security tools, web platforms, and practical software solutions.
 
-My philosophy: **You cannot fully protect a system until you understand how to build it.** I combine offensive security expertise with AI engineering to create tools that automate, analyze, and enhance real-world security workflows.
+My philosophy: **You cannot fully protect a system until you understand how to build it.** I combine offensive security expertise with web development to create tools that automate, analyze, and enhance real-world security workflows.
 
 <h3 align="center">Core Direction</h3>
 
 <div align="center">
 
-**Offensive Security · Penetration Testing · Bug Bounty · OSINT & Automation · AI Development · Software Engineering · Red Teaming**
+**Offensive Security · Penetration Testing · Bug Bounty · OSINT & Automation · Software Engineering · Red Teaming**
 
 </div>
 
@@ -61,13 +62,13 @@ My philosophy: **You cannot fully protect a system until you understand how to b
 <tr>
 <td width="50%" valign="top">
 
-<h4>AI Security Assistant — <em>Active Development</em></h4>
+<h4>Astra AI — <em>Active Development</em></h4>
 
-Multi-capability AI system currently under active development. Performs penetration testing, intelligent code generation, debugging, refactoring, and automation. Features cross-platform device control across local and remote networks (PC ↔ Tablet), image processing, automated cybersecurity report writing, and NLP-powered analysis.
+Multi-tenant web platform for evidence-based business discovery, digital auditing, and explainable opportunity ranking. Scores and calculations stay in a deterministic Rust rule engine; AI only writes the analysis text, and the system keeps running on the rule engine if the model is unavailable. Per-organization data isolation, role-based access control, 2FA for admins, and anonymization of data sent to external models.
 
 <br>
 
-`Rust` `Tauri` `AI/ML` `NLP` `Computer Vision` `Cross-Platform` `Cybersecurity`
+`Rust` `Axum` `PostgreSQL` `React` `TypeScript` `OpenAPI`
 
 </td>
 <td width="50%" valign="top">
@@ -87,7 +88,7 @@ AI-powered automation system developed for a competition organized by the T3 Fou
 
 <h4><a href="https://mehmetpalak.com">mehmetpalak.com</a> — Portfolio</h4>
 
-Personal portfolio website showcasing AI development and cybersecurity projects. Features a skills overview, project gallery with offensive security & AI categories, and an integrated contact system. Built as a professional hub for project demonstrations.
+Personal portfolio website showcasing web development and cybersecurity projects. Features a skills overview, project gallery with offensive security & web categories, and an integrated contact system. Built as a professional hub for project demonstrations.
 
 <br>
 
@@ -106,6 +107,30 @@ Full-stack e-commerce infrastructure supporting both wholesale and retail operat
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4>The Gate Keeper — Linux DNS Blocker</h4>
+
+Open-source, local-first DNS blocker built from a real personal need, designed to make removal deliberately hard. Removal needs multi-step verification, a failed attempt locks for 24 hours, and unblocking a site takes a 30-day wait. A user with root can still remove it: the goal is friction, not an unbreakable lock.
+
+<br>
+
+`Rust` `PostgreSQL` `DNS` `Linux` `Security`
+
+</td>
+<td width="50%" valign="top">
+
+<h4>The Spy — Internship Search Automation</h4>
+
+Local Python tool that runs in the background, finds internships matching my criteria, tailors the CV and cover letter to each posting, and attempts to fill the application form. Built on adapted MIT-licensed open-source projects, with safeguards such as hallucination checks and duplicate-submission prevention.
+
+<br>
+
+`Python` `Playwright` `LLM` `Automation`
+
+</td>
+</tr>
 </table>
 
 ---
@@ -116,7 +141,7 @@ Full-stack e-commerce infrastructure supporting both wholesale and retail operat
 
 <h4>Languages & Runtime</h4>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,ts,js,rust&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,rust&theme=dark" />
 
 <h4>Frontend & Data</h4>
 
@@ -152,7 +177,6 @@ Full-stack e-commerce infrastructure supporting both wholesale and retail operat
 <h4>Web, AppSec & Recon</h4>
 
 <img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OWASP%20ZAP-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Nuclei-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ffuf-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gobuster-111827?style=for-the-badge" />
@@ -200,14 +224,14 @@ Full-stack e-commerce infrastructure supporting both wholesale and retail operat
 
 ## Current Direction
 
-Currently building a **multi-capable AI security assistant** — an all-in-one system that combines penetration testing, intelligent code generation, automated debugging, refactoring, and cross-platform device control (PC ↔ Tablet across local and remote networks). The system handles image processing, writes comprehensive cybersecurity reports, and provides NLP-powered analysis — designed to be a practical offensive security companion.
+Currently building **Astra AI** — a multi-tenant platform for evidence-based business discovery, digital auditing, and explainable opportunity ranking. Scores stay in a deterministic Rust rule engine and AI only writes analysis text, so the system keeps working even when the model is unavailable. Security is part of the design: per-organization data isolation, role-based access control, 2FA for admins, and anonymized data for external models.
 
-Beyond this flagship project, I'm actively **updating and expanding my existing projects**, sharpening my **offensive security skills** through hands-on practice, and participating in **bug bounty programs** on HackerOne. My focus remains on the intersection of AI and cybersecurity — building tools that don't just detect threats, but think like an attacker.
+Beyond this flagship project, I'm actively **updating and expanding my existing projects**, sharpening my **offensive security skills** through hands-on practice, and participating in **bug bounty programs** on HackerOne. My focus remains on web development and offensive security — building tools that don't just detect threats, but think like an attacker.
 
 <div align="center">
 
-<a href="mailto:mehmetpalak@proton.me">
-  <img src="https://img.shields.io/badge/mehmetpalak@proton.me-020617?style=for-the-badge&logo=protonmail&logoColor=white" />
+<a href="mailto:mehmetpalak58@gmail.com">
+  <img src="https://img.shields.io/badge/mehmetpalak58@gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:1e293b,50:0f172a,100:020617" />
